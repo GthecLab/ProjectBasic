@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GthecLab/ProjectBasic#readme",
   "devDependencies": {
+    "graceful-fs": "^4.1.15",
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.2",
     "lodash": "^4.17.11"
