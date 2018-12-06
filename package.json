@@ -19,8 +19,10 @@
   "devDependencies": {
     "graceful-fs": "^4.1.15",
     "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^4.0.0",
     "gulp-sass": "^4.0.2",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "node-sass": "^4.10.0"
   },
   "dependencies": {
     "minimatch": "^3.0.4"
