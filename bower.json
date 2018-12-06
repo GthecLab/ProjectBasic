@@ -1,0 +1,21 @@
+{
+  "name": "Gthec Lab",
+  "homepage": "https://github.com/GthecLab/ProjectBasic",
+  "authors": [
+    "GthecLab <gtheclab@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
